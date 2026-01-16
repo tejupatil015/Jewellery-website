@@ -6,8 +6,8 @@ A modern, responsive, and animation-rich jewellery website built using HTML, CSS
 ---
 
 🌐 Live Preview
+ https://tejupatil015.github.io/Jewellery-website/
 
-> (Optional: Add GitHub Pages link here once deployed)
 
 
 
